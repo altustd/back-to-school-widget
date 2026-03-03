@@ -9,7 +9,7 @@
 
 This repository contains a **single, self-contained Jupyter notebook** that turns a famous movie scene into a **real, mathematically correct economics and optimization example**.
 
-It is based on the iconic classroom scene from *:contentReference[oaicite:0]{index=0}*, starring **:contentReference[oaicite:1]{index=1}**, where his character (Thornton Melon) interrupts an economics lecture and points out all the real-world costs missing from the professor’s clean textbook model.
+It is based on the iconic classroom scene from *Back to School*, starring Rodney Dangerfield, where his character (Thornton Melon) interrupts an economics lecture and points out all the real-world costs missing from the professor’s clean textbook model.
 
 Instead of just laughing at the scene, this notebook asks:
 
