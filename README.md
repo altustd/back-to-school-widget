@@ -1,6 +1,8 @@
 # Thornton Melon's Economics Lesson  
 **As a Linear Programming Optimization Problem**
 
+***By Troy Altus 3/3/2026***
+
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange?logo=Jupyter)](https://nbviewer.org/github/altust/Thornton-Melon-Economics-LP) <!-- replace with your actual repo path -->
