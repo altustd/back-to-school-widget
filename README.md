@@ -11,7 +11,7 @@ This repository contains a **single, self-contained Jupyter notebook** that turn
 
 It is based on the iconic classroom scene from *Back to School*, starring Rodney Dangerfield, where his character (Thornton Melon) interrupts an economics lecture and points out all the real-world costs missing from the professor’s clean textbook model.
 
-Instead of just laughing at the scene, this notebook asks:
+This notebook asks:
 
 > *What happens if we actually put Thornton Melon’s objections into the math?*
 
